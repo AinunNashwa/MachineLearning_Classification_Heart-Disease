@@ -21,7 +21,7 @@
 ### Results
 `Model`
 
-<img src="plot/Fine tune.png" alt="model" style="width:500px;height:350px;">
+<img src="plot/Fine tune.png" alt="model" style="width:500px;height:800px;">
 
 
 
