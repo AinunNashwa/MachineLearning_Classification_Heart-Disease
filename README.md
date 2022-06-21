@@ -10,7 +10,7 @@
 # MachineLearning_Classification_to predict the Heart Disease
 
 ### Descriptions
- 1) To predict if someone have heart disease
+ 1) To predict if someone have heart disease or have potential to have heart attack
  2) The datasets contains 303 train dataset with 10 test set
  3) This dataset contains continuous and categorical data
  4) The target is categorical either 0 or 1, less potential to have heart attack, high potential to have heart attack
