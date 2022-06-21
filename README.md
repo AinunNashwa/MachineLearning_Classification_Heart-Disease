@@ -27,7 +27,9 @@
 
 
 `Classification_Report`
+
 ![Model Analysis](https://user-images.githubusercontent.com/106902414/174779132-11793148-e54c-4c70-bf27-c08f7b44c1fe.PNG)
+
 
 
 
