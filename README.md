@@ -49,7 +49,10 @@
 <img src="plot/cp.png" alt="model" style="width:300px;height:200px;">
 
 ### Discussion
-1) 
+1) Machine Learning best pipeline for this dataset is: `Standard Scaler` + `SVC`
+2) When tuning the model the accuracy decreases, thus we choose the best model without tuning it
+3) The prediction is quite acuurate during deployment
+4) For model improvement: Try with different Scalling and Classifier, also different the random_state when train-test-split the data
 
 ### Credits
 `You can load the dataset from here`
