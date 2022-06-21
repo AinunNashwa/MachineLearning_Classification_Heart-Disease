@@ -21,16 +21,17 @@
 ### Results
 `Model`
 
-<img src="plot/Fine tune.png" alt="model" style="width:500px;height:800px;">
-<img src="plot/Fine_tune.png" alt="model" style="width:500px;height:800px;">
+<img src="plot/Fine tune.png" alt="model" style="width:300px;height:250px;">
+
+<img src="plot/Fine_tune.png" alt="model" style="width:300px;height:250px;">
 
 `Classification_Report`
 
-<img src="plot/Model Analysis.png" alt="model" style="width:500px;height:800px;">
+<img src="plot/Model Analysis.png" alt="model" style="width:300px;height:250px;">
 
 `Confusion_Matrix`
 
-<img src="plot/Distplot.png" alt="model" style="width:300px;height:2500px;">
+<img src="plot/Distplot.png" alt="model" style="width:300px;height:250px;">
 
 
 `Training Data` example for continuous data:
