@@ -26,14 +26,14 @@
 ![Fine tune](https://user-images.githubusercontent.com/106902414/174779383-5a33597f-31c2-472a-bc4d-36925a4f8710.PNG)
 
 
-`Classification_Report`
+`Classification_Report` without fine tune the model
 
 ![Model Analysis](https://user-images.githubusercontent.com/106902414/174779132-11793148-e54c-4c70-bf27-c08f7b44c1fe.PNG)
 
 
 
 
-`Confusion_Matrix`
+`Confusion_Matrix` without fine tune the model
 
 
 <img src="plot/Distplot.png" alt="model" style="width:300px;height:250px;">
@@ -44,7 +44,7 @@
 <img src="plot/age.png" alt="model" style="width:300px;height:200px;">
 
 
-`Training Data` example for continuous data:
+`Training Data` example for categorical data:
 
 <img src="plot/cp.png" alt="model" style="width:300px;height:200px;">
 
