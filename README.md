@@ -36,7 +36,7 @@
 `Confusion_Matrix` without fine tune the model
 
 
-<img src="plot/Distplot.png" alt="model" style="width:300px;height:250px;">
+<img src="plot/ConfusionMatrixDis.png" alt="model" style="width:300px;height:250px;">
 
 
 `Training Data` example for continuous data:
