@@ -30,13 +30,16 @@
 
 `Confusion_Matrix`
 
-<img src="plot/Distplot.png" alt="model" style="width:500px;height:800px;">
+<img src="plot/Distplot.png" alt="model" style="width:300px;height:2500px;">
+
 
 `Training Data` example for continuous data:
 
 <img src="plot/age.png" alt="model" style="width:300px;height:200px;">
 
+
 `Training Data` example for continuous data:
+
 <img src="plot/cp.png" alt="model" style="width:300px;height:200px;">
 
 ### Discussion
