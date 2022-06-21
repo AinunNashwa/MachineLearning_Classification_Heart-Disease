@@ -21,19 +21,23 @@
 ### Results
 `Model`
 
-<img src="static/model.png" alt="model" style="width:300px;height:500px;">
+<img src="plot/Fine tune.png" alt="model" style="width:300px;height:500px;">
+<img src="plot/Fine_tune.png" alt="model" style="width:300px;height:500px;">
 
 `Classification_Report`
 
-<img src="static/model.png" alt="model" style="width:300px;height:500px;">
+<img src="plot/Model Analysis.png" alt="model" style="width:300px;height:500px;">
 
 `Confusion_Matrix`
 
-<img src="static/model.png" alt="model" style="width:300px;height:500px;">
+<img src="plot/Displot.png" alt="model" style="width:300px;height:500px;">
 
-`Training Data`
+`Training Data` example for continuous data:
 
-<img src="static/model.png" alt="model" style="width:300px;height:500px;">
+<img src="plot/age.png" alt="model" style="width:300px;height:500px;">
+
+`Training Data` example for continuous data:
+<img src="plot/cp.png" alt="model" style="width:300px;height:500px;">
 
 ### Discussion
 1) 
