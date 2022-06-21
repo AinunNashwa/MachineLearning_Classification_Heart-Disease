@@ -21,13 +21,19 @@
 ### Results
 `Model`
 
-<img src="plot/Fine tune.png" alt="model" style="width:400px;height:250px;">
+<img src="plot/Fine tune.png" alt="model" style="width:500px;height:350px;">
 
-<img src="plot/Fine_tune.png" alt="model" style="width:400px;height:250px;">
+
+
+<img src="plot/Fine_tune.png" alt="model" style="width:500px;height:350px;">
+
+
 
 `Classification_Report`
 
-<img src="plot/Model Analysis.png" alt="model" style="width:400px;height:250px;">
+<img src="plot/Model Analysis.png" alt="model" style="width:500px;height:350px;">
+
+
 
 `Confusion_Matrix`
 
