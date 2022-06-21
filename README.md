@@ -19,24 +19,20 @@
  7) For Categorical Data Versus Categorical Data, used : `Cramer's V`
  
 ### Results
-`Model`
+`Model`: When tune the model using `Standard Scaler` & `SVC`
 
-<img src="plot/Fine tune.png" alt="model" style="width:500px;height:800px;">
+![Fine_tune](https://user-images.githubusercontent.com/106902414/174779358-a9dcc302-1fac-4c98-9755-587bc32f3e7a.PNG)
 
-
-
-<img src="plot/Fine_tune.png" alt="model" style="width:500px;height:350px;">
-
+![Fine tune](https://user-images.githubusercontent.com/106902414/174779383-5a33597f-31c2-472a-bc4d-36925a4f8710.PNG)
 
 
 `Classification_Report`
-
-<img src="plot/Model Analysis.png" alt="model" style="width:500px;height:350px;">
+![Model Analysis](https://user-images.githubusercontent.com/106902414/174779132-11793148-e54c-4c70-bf27-c08f7b44c1fe.PNG)
 
 
 
 `Confusion_Matrix`
-![Model Analysis](https://user-images.githubusercontent.com/106902414/174779132-11793148-e54c-4c70-bf27-c08f7b44c1fe.PNG)
+
 
 <img src="plot/Distplot.png" alt="model" style="width:300px;height:250px;">
 
